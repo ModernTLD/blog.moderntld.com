@@ -32,3 +32,4 @@ markdown: redcarpet
 highlighter: pygments
 gems:
     - jekyll-feed
+    - jekyll-paginate
