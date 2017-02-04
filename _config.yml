@@ -1,29 +1,29 @@
 # Site settings
-title: Jekyll-materialize
+title: ModernTLD News, Articles, etc.
 description: > # this means to ignore newlines until "baseurl:"
-    Write an awesome description for your new site here. You can edit this
-    line in _config.yml. It will appear in your document head meta (for
-    Google search results) and in your feed.xml site description.
-url: "http://yourdomain.com"
+    ModernTLD provides free domain registration on the OpenNIC network.
+    Keep up to date on this website to learn more about our operations
+    and new developments!
+url: "https://blog.moderntld.com/"
 baseurl: ""
-logo: jekyll-<b>materialize</b>
+logo: "<b>ModernTLD</b> News"
 paginate: 5
 paginate_path: "/page:num/"
 owner:
-    email: ichihara.rifa@gmail.com
+    email: jonah@moderntld.com
     facebook:
-        show: true
-        name: "Ichihara Rifa"
-        url: "https://fb.me/nasya.aidan"
+        show: false
+        name: "ModernTLD"
+        url: "https://fb.me/doesnotexist"
     github:
         show: true
-        username: "riefachan"
+        username: "ModernTLD"
     twitter:
-        show: false
-        username: ""
+        show: true
+        username: "ModernTLD"
     disqus:
         show: true
-        username: "ichihararifa"
+        username: "jonaharagon"
 sass:
     sass_dir: _sass
     style: compressed
