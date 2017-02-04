@@ -27,7 +27,7 @@ owner:
 sass:
     sass_dir: _sass
     style: compressed
-permalink: "/article/:title"
+permalink: pretty
 markdown: kramdown
 highlighter: rouge
 gems:

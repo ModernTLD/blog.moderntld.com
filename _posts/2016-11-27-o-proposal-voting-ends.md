@@ -2,7 +2,7 @@
 layout: post
 title: ".o Proposal Voting Ends"
 date: 2016-11-27
-category: news
+category: News
 tags: .o
 ---
 
