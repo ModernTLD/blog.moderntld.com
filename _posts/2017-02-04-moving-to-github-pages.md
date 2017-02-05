@@ -10,10 +10,10 @@ We've switched between a few hosts for [our website](https://www.moderntld.com/)
 
 This move offers a few advantages over the old system:
 
-1) Reliability and Independence in hosting
-2) Easy editing and distribution
-3) Transparency
-4) Integrity and Trust
+1. Reliability and Independence in hosting
+2. Easy editing and distribution
+3. Transparency
+4. Integrity and Trust
 
 *Are you really independent if you're reliant on GitHub Pages?* This is really a technicality when it comes down to it, we could trivially `git push` to another infrastructure if we ever had any problems with GitHub itself. It's far and away easier to transfer a Jekyll site to another host than a WordPress blog.
 
