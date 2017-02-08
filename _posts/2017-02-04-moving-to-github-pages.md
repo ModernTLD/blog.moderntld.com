@@ -27,13 +27,7 @@ Additionally, this system allows a form of verification that every commit was cr
 
 Now that GPG technology has been [implemented in both GitHub](https://github.com/blog/2144-gpg-signature-verification) and [Git](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work), it's easy to independently verify anything posted to our website or this blog were indeed sent and signed by [myself](https://github.com/JonahAragon) or an authorized ModernTLD volunteer. 
 
-My key can be found at [keybase.io/jonaharagon](https://keybase.io/jonaharagon) and has the following fingerprint:
-
-    D882 B438 57A8 A6B7 80B4 5A37 C309 C927 B8BB F24C
-    
-(The signing subkey has the ID: `C309C927B8BBF24C`, which will be visible on all GitHub commits)
-
-You can also find my key at the bottom of [wiki.opennicproject.org/JonahAragon](http://wiki.opennicproject.org/JonahAragon) for further verification.
+\[**Update 2/8**\]: GPG key information for all ModernTLD members is available at [blog.moderntld.com/keys/](/keys).
 
 With those three seperate methods of verification, you will be able to assure the [commits posted to this blog](https://github.com/ModernTLD/blog.moderntld.com/commits/master), and the [commits posted to moderntld.com](https://github.com/ModernTLD/www.moderntld.com/commits/master) are from who they claim they are.
 
