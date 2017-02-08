@@ -2,6 +2,7 @@
 <nav class="white red-text z-depth-0">
     <ul id="slide-out" class="side-nav">
         <li><a href="{{ site.baseurl }}/" class="red-text">Home</a></li>
+        <li><a href="https://www.moderntld.com/" class="red-text">ModernTLD.com</a></li>
         {% for page in site.pages %}
             {% if page.title %}
                 <li><a href="{{ page.url | prepend: site.baseurl }}" class="red-text">{{ page.title }}</a></li>
@@ -12,6 +13,7 @@
     <div class="container container-large">
     <a class="brand-logo" href="{{ site.baseurl }}/" class="red-text"><span class="light red-text">{{ site.logo }}</span></a>
     <ul class="right hide-on-med-and-down">
+        <li><a href="https://www.moderntld.com/" class="red-text">ModernTLD.com</a></li>
         {% for page in site.pages %}
             {% if page.title %}
                 <li><a href="{{ page.url | prepend: site.baseurl }}" class="red-text">{{ page.title }}</a></li>
