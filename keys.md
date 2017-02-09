@@ -4,7 +4,7 @@ title: GPG Keys
 permalink: /keys/
 ---
 
-GitHub contributors, editors of [moderntld.com](https://www.moderntld.com/), and authors of this blog all use GPG keys to sign their commits (starting from Feb. 4, 2017). This is very important because it allows you to verify that the changes made to our websites and code repos were made by trusted representatives, as opposed to a theoretical GitHub breach or account hijacking. 
+GitHub contributors, editors of [moderntld.com](https://www.moderntld.com/), and authors of this blog all use GPG keys to sign their commits (starting from Feb. 4, 2017). This is very important because it allows you to verify that the changes made to our websites and code repos were made by trusted representatives, as opposed to a theoretical GitHub breach or account hijacking.
 
 The sections listed below display key info for all people who are members of the [@ModernTLD](https://github.com/ModernTLD) group on GitHub. This page is a work in progress (we hope to include everyone soon).
 
@@ -40,4 +40,15 @@ gpg> check
 uid  Jonah Aragon (GitHub Signing Key) <jonaharagon@gmail.com>
 sig!3        FEEB8CEF 2017-02-05  [self-signature]
 sig!         B8BBF24C 2017-02-05  Jonah Aragon <jonah@jonaharagon.com>
+```
+
+### Joseph Marsden
+
+**Effective immediately**, commits by me, [@CitadelCore](https://github.com/CitadelCore), are signed by my master GPG key.
+
+```
+pub  4096R/3CD0AB23  created: 2017-02-03  expires: never       usage: SC
+                     trust: ultimate      validity: ultimate
+sub  4096R/0D22CE92  created: 2017-02-03  expires: never       usage: E
+[ultimate] Joseph Clayton Marsden (CitadelCore) <josephmarsden@towerdevs.xyz>
 ```
