@@ -18,7 +18,7 @@ For example, on the [Git commits page](https://github.com/ModernTLD/blog.modernt
 
 ### Jonah Aragon
 
-**Prior to Feb. 8th**, commits by [@JonahAragon](https://github.com/JonahAragon) were signed with [my master key](https://raw.githubusercontent.com/JonahAragon/JonahAragon.github.io/master/keys/jonah-master.asc) which has the fingerprint `C309C927B8BBF24C` on all GitHub commits.
+**Prior to Feb. 8th**, commits by myself, [@JonahAragon](https://github.com/JonahAragon) were signed with [my master key](https://raw.githubusercontent.com/JonahAragon/JonahAragon.github.io/master/keys/jonah-master.asc) which has the fingerprint `C309C927B8BBF24C` on all GitHub commits.
 
 This master key **should still be used for encrypted communications** (emails, etc) but no longer signs any future GitHub commits.
 
@@ -44,7 +44,7 @@ sig!         B8BBF24C 2017-02-05  Jonah Aragon <jonah@jonaharagon.com>
 
 ### Joseph Marsden
 
-**Effective immediately**, commits by me, [@CitadelCore](https://github.com/CitadelCore), are signed by my master GPG key.
+**Effective from Feb. 9th onward**, commits by me, [@CitadelCore](https://github.com/CitadelCore), are signed by my master GPG key.
 
 ```
 pub  4096R/3CD0AB23  created: 2017-02-03  expires: never       usage: SC
@@ -52,3 +52,5 @@ pub  4096R/3CD0AB23  created: 2017-02-03  expires: never       usage: SC
 sub  4096R/0D22CE92  created: 2017-02-03  expires: never       usage: E
 [ultimate] Joseph Clayton Marsden (CitadelCore) <josephmarsden@towerdevs.xyz>
 ```
+
+[This key](https://keybase.io/CitadelCore/pgp_keys.asc) can be found at [keybase.io/citadelcore](https://keybase.io/citadelcore) for further identity verification.
