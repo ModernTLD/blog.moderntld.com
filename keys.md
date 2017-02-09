@@ -18,7 +18,7 @@ For example, on the [Git commits page](https://github.com/ModernTLD/blog.modernt
 
 ### Jonah Aragon
 
-**Prior to Feb. 8th**, commits by [@JonahAragon](https://github.com/JonahAragon) were signed with [my master key](https://raw.githubusercontent.com/JonahAragon/JonahAragon.github.io/master/keys/jonah-master.asc) which has the fingerprint "C309C927B8BBF24C" on all GitHub commits.
+**Prior to Feb. 8th**, commits by [@JonahAragon](https://github.com/JonahAragon) were signed with [my master key](https://raw.githubusercontent.com/JonahAragon/JonahAragon.github.io/master/keys/jonah-master.asc) which has the fingerprint `C309C927B8BBF24C` on all GitHub commits.
 
 This master key **should still be used for encrypted communications** (emails, etc) but no longer signs any future GitHub commits.
 
@@ -26,9 +26,9 @@ This master key in full is linked above, and is also accessible at [keybase.io/j
 
 Further verification: [Twitter](https://twitter.com/JonahAragon/status/828617198461665281) [OpenNIC Wiki](http://wiki.opennicproject.org/JonahAragon)
 
-**After Feb. 8th**, my GitHub commits are signed by a seperate GitHub signing key.
+**After Feb. 8th**, my GitHub commits are signed by a separate [GitHub signing key](https://raw.githubusercontent.com/JonahAragon/JonahAragon.github.io/master/keys/jonah-github.asc).
 
-This key is *signed* by my master key for authenticity, but for security reasons is kept seperate for GitHub signing purposes *only*. (If you need to send me encrypted communications please use [my master key](https://raw.githubusercontent.com/JonahAragon/JonahAragon.github.io/master/keys/jonah-master.asc)!). The GitHub key in question will show the ID "0209F0BBFEEB8CEF" in GitHub commits.
+This key is *signed* by my master key for authenticity, but for security reasons is kept separate for GitHub signing purposes *only*. (If you need to send me encrypted communications please use [my master key](https://raw.githubusercontent.com/JonahAragon/JonahAragon.github.io/master/keys/jonah-master.asc)!). The GitHub key in question will show the ID `0209F0BBFEEB8CEF` in GitHub commits.
 
 ```
 pub  4096R/FEEB8CEF  created: 2017-02-05  expires: never       usage: SC
